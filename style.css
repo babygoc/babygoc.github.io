@@ -1,0 +1,42 @@
+
+
+
+
+
+body {background-color: #FFFFFF;}
+
+h1   {text-align: center;}
+
+#immagine
+	{
+		position: "relative";
+		float : "left";
+	}
+.descrizione
+	{
+		border: 5px outset red;
+		background-color: lightblue;    
+		text-align: center;
+	}
+#descrizione_testuale
+	{
+		position: relative;
+		font-size: 18px;
+		font-family:Cambria;
+
+		padding: 1 px;
+	}
+	
+
+
+.footer 
+	{
+	  position: fixed;
+	  left: 0;
+	  bottom: 0;
+	  width: 100%;
+	  color: white;
+	  text-align: center;
+	  ;
+	}
+
